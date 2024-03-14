@@ -1,10 +1,10 @@
-_id: req_dfb8984486d040d89e321f0301d141fe
+_id: req_df044d73224c460ba5b525efd880f8e9
 type: Request
 parentId: wrk_c8c4ee5dd6bd4032b3313a88b5b62379
-modified: 1710411928176
-created: 1710410565978
-url: https://www.ingurumena.ejgv.euskadi.eus/ac84aApiWar/api/especies/detalle/es/3
-name: Especies_detalle
+modified: 1710411967447
+created: 1710411960171
+url: https://www.ingurumena.ejgv.euskadi.eus/ac84aApiWar/api/especies/arbol/3
+name: Especies_arbol
 description: ""
 method: GET
 body:
@@ -17,7 +17,7 @@ headers:
   - name: User-Agent
     value: insomnia/2023.5.8
 authentication: {}
-metaSortKey: -1710408108661
+metaSortKey: -1710406954855
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
