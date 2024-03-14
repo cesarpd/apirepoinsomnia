@@ -1,0 +1,34 @@
+_id: req_f06565199b26474bb08d54f66edc9cc6
+type: Request
+parentId: wrk_c8c4ee5dd6bd4032b3313a88b5b62379
+modified: 1710410534943
+created: 1710410416273
+url: https://www.ingurumena.ejgv.euskadi.eus/ac84aBuscadorWar/especies/filter
+name: Especies_Filter
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "filter": {},
+        "busquedadto": {
+            "offset": 0,
+            "limit": 2000
+        }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1710410416273
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

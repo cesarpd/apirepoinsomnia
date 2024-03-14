@@ -1,0 +1,27 @@
+_id: req_dfb8984486d040d89e321f0301d141fe
+type: Request
+parentId: wrk_c8c4ee5dd6bd4032b3313a88b5b62379
+modified: 1710410709511
+created: 1710410565978
+url: https://www.ingurumena.ejgv.euskadi.eus/ac84aBuscadorWar/especies/detalle/3
+name: Especies_detalle
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1710408108661
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
